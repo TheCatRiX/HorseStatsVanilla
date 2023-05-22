@@ -61,7 +61,7 @@ public class ModConfig implements ConfigData {
     @ConfigEntry.Gui.CollapsibleObject
     private ColorObj goodColor = new ColorObj(0,180,0);
     @ConfigEntry.Gui.CollapsibleObject
-    private ColorObj neutralColor = new ColorObj(70,70,70);
+    private ColorObj neutralColor = new ColorObj(172,172,172);
     @ConfigEntry.Gui.CollapsibleObject
     private ColorObj badColor = new ColorObj(255,0,0);
 
